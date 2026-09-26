@@ -20,7 +20,7 @@ Hardware, Firmware & Protocols
 
 Software, Web & Design
 
- Get in Touch
+Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/tanmaee-kulkarni-09b44a313/
 
