@@ -24,4 +24,4 @@ Software, Web & Design
 
 LinkedIn: https://www.linkedin.com/in/tanmaee-kulkarni-09b44a313/
 
-Email: tanmaeekulakarni@gmail.com
+Email: tanmaeekulkarni@gmail.com
