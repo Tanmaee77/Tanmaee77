@@ -30,5 +30,5 @@ I build end-to-end intelligent hardware solutions—from circuit schematics and 
 
 ### 🔗 Connect With Me
 
-📧 **Email:** [tanmaee.kulkarni@example.com] <br>
+📧 **Email:** [tanmaeekulkarni@gmail.com] <br>
 💼 **LinkedIn:** [https://www.linkedin.com/in/tanmaee-kulkarni-09b44a313/]
