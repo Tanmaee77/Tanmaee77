@@ -1,34 +1,51 @@
 # Hi, I'm Tanmaee B Kulkarni 👋
 
-I'm an **Electronics & Instrumentation Engineering student** and aspiring **Hardware & Embedded Systems Developer**, passionate about **IoT Platforms, Industrial Automation, Edge AI, and Creative Tech Design**.
+**Electronics & Instrumentation Engineering student (B.E., 2027) | Industrial Automation | IIoT**
+📍 Bengaluru, India · 🎓 JSS Academy of Technical Education
 
-⚡ I primarily work with **C, Python, MATLAB, and Microcontrollers (ESP32 / STM32)**, building connected hardware, sensor signal conditioning circuits, and firmware.
+I build industrial automation projects, from PLC logic and P&ID design to fieldbus protocols and edge-to-cloud telemetry. I'm looking for **Graduate Engineer Trainee and automation roles** in process plants, packaging and manufacturing, and Industrial IoT.
 
-🤖 I also work on **Edge AI, Computer Vision, and Industrial Control (CODESYS, PLC logic, P&ID)**, bridging physical hardware with intelligent software systems.
+🏆 Winner, Best Project Award at the national level hackathon, ADCET (Nirbhaya Nest)
 
-### 🧠 Currently Focused On
+---
 
-* Embedded Systems & Firmware Development (ESP32, STM32)
-* Industrial Automation, ISA-5.1 P&ID Standards & CODESYS
-* Edge AI & Computer Vision for Safety Monitoring
-* Sensor Signal Conditioning & Telemetry (MQTT, 4–20 mA Current Loops)
-* UI/UX Prototyping & Product Design
+## 🛠 Tech & Skills
 
-### 🛠️ Tech Stack
+| Area | Skills |
+| --- | --- |
+| **PLC & Control** | CODESYS V3.5, IEC 61131-3 (Ladder Diagram, Structured Text, FBD), interlocks, timers, R_TRIG, shift registers |
+| **Instrumentation** | 4-20 mA loops, analog scaling, RTD, level transmitters, control valves, ISA-5.1 P&IDs |
+| **SCADA & Protocols** | Modbus TCP (FC01, FC03), MQTT, CODESYS HMI |
+| **Programming** | Python, pymodbus, paho-mqtt, SQLite, JSON, HTML/JavaScript |
+| **Tools** | Git, GitHub, VS Code, Draw.io |
 
-**Languages:** C · Python · C++ · MATLAB · Verilog · SQL  
-**Hardware & Controllers:** ESP32 · STM32 · Raspberry Pi · Arduino  
-**Automation & Protocols:** CODESYS · Ladder Logic · ISA-5.1 P&ID · MQTT · I2C · SPI · UART  
-**Web & Design:** React · HTML/CSS · Figma · Canva  
-**Core:** Embedded Systems · Process Instrumentation · Sensor Interfacing · Signal Conditioning  
+---
 
-### 🚀 What I Do
+## 🚀 Featured Projects
 
-I build end-to-end intelligent hardware solutions—from circuit schematics and microcontroller firmware to Edge AI models and clean user interfaces.
+### 🏭 [Batch Mixing & Thermal Process Control](https://github.com/Tanmaee77/batch-mixing-process-simulation)
+`CODESYS` `IEC 61131-3` `HMI`
+Batch reactor simulation with 4-20 mA / 0-10 V analog scaling, high-temperature cutoff, overflow prevention, hardwired E-Stop interlocks and an animated operator HMI with alarm acknowledgment.
 
-📌 **Co-founder of ROVÉ | Hackathon Innovator (Nirbhaya Nest, PRAHARI)**
+### 🍾 [Bottle Packaging & Defect Reject Cell](https://github.com/Tanmaee77/Bottle-Packaging-Reject-Cell-CODESYS)
+`CODESYS` `Ladder / ST` `Shift Register`
+Rejects defective bottles on a moving conveyor using encoder pulse tracking, R_TRIG debouncing, an 8-stage shift register and a pulse-timer (TP) pneumatic cylinder, with production KPIs (total, passed, rejected, defect %).
 
-### 🔗 Connect With Me
+### 🔌 [Modbus TCP Industrial Gateway](https://github.com/Tanmaee77/modbus-industrial-gateway)
+`Python` `pymodbus` `HTML5`
+Simulated 3-phase power meter server and SCADA master polling Holding Registers (FC03) and coils (FC01), with fixed-point scaling and an interactive visualizer of MBAP headers and bit-level register values.
 
-📧 **Email:** [tanmaeekulkarni@gmail.com] <br>
-💼 **LinkedIn:** [https://www.linkedin.com/in/tanmaee-kulkarni-09b44a313/]
+### 📡 [Edge Telemetry with Store-and-Forward](https://github.com/Tanmaee77/food-machinery-telemetry)
+`Python` `MQTT` `SQLite`
+Publishes machine telemetry (vibration, temperature, current) over MQTT with edge threshold checks. Buffers data in SQLite during network outages and replays it on reconnect for zero data loss.
+
+### 🌫 [AQI Based Health Monitoring System](https://github.com/Tanmaee77/Aqi-based-health-monitoring-system)
+`IoT` `Sensors`
+Air quality and particulate sensor interfacing with structured data logging and automated limit-excursion triggers.
+
+---
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanmaee-kulkarni/)
+- ✉️ [tanmaeekulkarni@gmail.com](mailto:tanmaeekulkarni@gmail.com)
